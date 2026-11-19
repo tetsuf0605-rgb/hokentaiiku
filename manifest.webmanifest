@@ -1,0 +1,9 @@
+{
+  "name": "保健体育 問題集",
+  "short_name": "保健体育",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
